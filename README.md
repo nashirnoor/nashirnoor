@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a Professional social media Networking platfrom
+ 🔭 I’m currently working on a Professional Job Portal platfrom
  
  🌱 I’m currently learning **React, *Tailwind, *Rest API
 
